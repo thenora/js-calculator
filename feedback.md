@@ -9,7 +9,7 @@
 | Criteria | yes/no, and optionally any details/lines of code to reference |
 | --- | --- |
 | Correctly uses conditionals (`if`/`else`/`elsif` or other kinds). | ✔️?
-| Correctly uses variables, and only uses `const` and `let` variables. The program uses `const` when possible. The program never uses `var`. | ✔️?
+| Correctly uses variables, and only uses `const` and `let` variables. The program prefers `const`. The program never uses `var`. | ✔️?
 | Correctly creates and uses functions appropriately. | ✔️?
 | Practices best-practices in JavaScript syntax. There are semi-colons at the end of most lines that need semi-colons. | ✔️?
 | Practices best-practices in JavaScript naming conventions, and uses camelCase for variable names and function names. | ✔️?
