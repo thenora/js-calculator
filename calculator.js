@@ -190,10 +190,10 @@ const testInputExamples = function () {
   calculator(exampleDivisionInput2);
 }
 
-// commandLineIntro() // runs full program with working input
+commandLineIntro() // runs full program with working input
 
 // calculator(exampleInvalidMath) // runs an operator error input
 
 // calculator(exampleInvalidNum2) // runs a num error input
 
-calculator(exampleDivideZero) // example divide by zero
+// calculator(exampleDivideZero) // example divide by zero
